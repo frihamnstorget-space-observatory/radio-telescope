@@ -23,7 +23,20 @@ Users can connect to and control the telescope through a web app and see live da
 
 ## Block diagram
 
-![Frihamnstorget radio telescope architecture block diagram](images/block-diagram.png)
+Here are several block diagrams describing the hardware, signal and data flows.
+
+### Hardware level
+
+![Frihamnstorget radio telescope hardware block diagram](images/hw-block-diagram.png)
+
+### RF Signal path
+
+![Frihamnstorget radio telescope RF block diagram](images/rf-block-diagram.png)
+
+
+### DSP / Dataflow Pipeline
+
+![Frihamnstorget radio telescope DSP block diagram](images/dsp-block-diagram.png)
 
 ## Budget 
 
