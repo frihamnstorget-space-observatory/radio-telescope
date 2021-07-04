@@ -41,6 +41,13 @@ Here are several block diagrams describing the hardware, signal and data flows.
 ## Budget 
 
 
+## Reference
+
+### Skyline height
+
+The figure shows various angles of inclination between the horizon (0°) and various tall structures around the point of the current highest point in Frihamnstorget located at [59.3427791, 18.1176758](https://www.google.com/maps/place/9FFW84V9%2B43/@59.3428125,18.1176875,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d59.3428125!4d18.1176875).
+
+![Frihamnstorget skyline clearance](images/skyline-clearance.jpg)
 
 ## Licence
 
